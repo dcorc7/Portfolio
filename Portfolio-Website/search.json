@@ -1,37 +1,37 @@
 [
   {
+    "objectID": "pages/personal_projects.html",
+    "href": "pages/personal_projects.html",
+    "title": "Personal Projects",
+    "section": "",
+    "text": "Soccer League Data API\nA program that accesses football-data.org’s soccer API to retrieve the current standings of Europe’s top 5 soccer leagues. It will prompt the user to select which league they want to view, and has validation rules for inputs outside of the given league list. Once a list is chosen, the program accesses the API to display that league’s current standings and offers an additional lookup.\nLanguages: Python\n\nCode\nView this project on Github\nDownload the code file\n\n\n\nSpotify Top Tracks\nUtilizing Spotipy and Spotify’s API to retrieve song/artist data from an inputted Spotify account, this python program returns the selected user’s top 25 tracks and artists within 3 different time periods: 4 weeks, 6 months, and all-time. Users must create an account on Spotify for Developers to obtain an API key.\nLanguages: Python\n\nCode\nView this project on Github\nDownload the code file"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Right Side\nDavid Corcoran\n\n\n\nAbout Me\nThe unanimous Declaration of the thirteen united States of America, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature’s God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.\nWe hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.–That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, –That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security.–Such has been the patient sufferance of these Colonies; and such is now the necessity which constrains them to alter their former Systems of Government. The history of the present King of Great Britain is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over these States. To prove this, let Facts be submitted to a candid world."
+    "text": "Resume\n\n\nAbout Me\nI graduated from Virginia Tech’s Pamplin College of Business in May 2022 with two degrees in Business Information Technology and Finance, and a minor in Economics. Immediately after graduation, I worked in McLean, VA as a Federal Technology Risk Management Associate on a variety of IT audit readiness, segregation of duties, ICAM, and inventory management projects at KPMG over 2 years.\nStarting in August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown, aiming to further my education regarding machine learning, database management, statistics, and natural language processing.\n\n\nEducation\nGeorgetown University - 2026\n\nMasters in Data Science & Analytics\n\nVirginia Tech - 2022\n\nBachelors of Science in Business Information Technology (BIT)\nBachelors of Science in Finance\nEconomics Minor\n\n\n\nWork Experience\n\nKPMG\nFederal Technology Risk Management Associate\nJuly 2022 - Present\n1st Engagement: As a TRM associate, I was responsible for researching the current-state of the DoD federal agency I was under contract for, and solving issues regarding segregation of duties (SoD). This resulted in me supporting the creation of an SoD governance document that was accepted by the agency.\n2nd Engagement: I am currently responsible for supporting a DoD federal agency with their IT audit-readiness goals for fiscal year 2023. While physically visiting clients sites across the US, I walkthrough and test the entirety of each site’s SAP IT system controls for inter-site discrepancies, system errors, or internal control gaps.\n3rd Engagment:\nMiscellaneous:\n\nLiving Green and API Business Resource Groups\nKPMG Culture Catalyst\nKPMG Health Equity Hackathon - 3rd Place\n\n\n\nTIC Summer Camp\nPython Programming Counseler\nJune 2021 - August 2021\nAs a programming counselor, I was responsible for instructing campers aged 6-11 in Scratch, and campers aged 12-18 in Python. I used the built-in python platform within Processing 3 to teach middle and high school students the basics of programming (variables, syntax, for loops, while loops, functions, classes) so that they could ultimately build their own game by the end of each two week camp session."
   },
   {
-    "objectID": "index.html#overview",
-    "href": "index.html#overview",
-    "title": "Portfolio Website",
+    "objectID": "pages/academic_projects.html",
+    "href": "pages/academic_projects.html",
+    "title": "Academic Projects",
     "section": "",
-    "text": "Test"
+    "text": "View this project on Github"
   },
   {
-    "objectID": "pages/project2.html",
-    "href": "pages/project2.html",
-    "title": "Project 2",
+    "objectID": "pages/academic_projects.html#project-1-summary",
+    "href": "pages/academic_projects.html#project-1-summary",
+    "title": "Academic Projects",
     "section": "",
-    "text": "Project 2"
+    "text": "View this project on Github"
   },
   {
-    "objectID": "pages/project1.html",
-    "href": "pages/project1.html",
-    "title": "Project 1",
-    "section": "",
-    "text": "Project 1"
-  },
-  {
-    "objectID": "pages/project_home.html",
-    "href": "pages/project_home.html",
-    "title": "Project 1",
-    "section": "",
-    "text": "Project 1\ntestin testing testing\nProject 1\n\n\nProject 2\ntestin testing testing\nProject 1"
+    "objectID": "pages/academic_projects.html#project-2-summary",
+    "href": "pages/academic_projects.html#project-2-summary",
+    "title": "Academic Projects",
+    "section": "Project 2 Summary",
+    "text": "Project 2 Summary\nView this project on Github"
   }
 ]

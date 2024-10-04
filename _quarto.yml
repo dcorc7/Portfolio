@@ -8,8 +8,17 @@ website:
     left:
       - text: About Me
         href: index.qmd
-      - text: Projects
-        href: ./pages/project_home.qmd
+      - text: Academic Projects
+        href: ./pages/academic_projects.qmd
+      - text: Personal Projects
+        href: ./pages/personal_projects.qmd
+    right:
+      - icon: github
+        href: https://github.com/dcorcoran7
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/david-corcoran-70677917a/
+        aria-label: LinkedIn
 
 format:
   html:

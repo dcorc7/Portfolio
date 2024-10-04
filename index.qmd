@@ -4,17 +4,59 @@ format:
     toc: true
     toc-location: left
     toc-title: Table of Contents
-    css: styles.css
+    css: ./stylesheets/styles.css
 ---
 
 ::: {.grid}
 ![](./images/photo.png)
 
-### Right Side
-David Corcoran
+[Resume](./documents/Resume.pdf)
+
+
 :::
 
 # About Me
-The unanimous Declaration of the thirteen united States of America, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.
+I graduated from Virginia Tech's Pamplin College of Business in May 2022 with two degrees in Business Information Technology and Finance, and a minor in Economics. Immediately after graduation, I worked in McLean, VA as a Federal Technology Risk Management Associate on a variety of IT audit readiness, segregation of duties, ICAM, and inventory management projects at KPMG over 2 years.
 
-We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, --That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security.--Such has been the patient sufferance of these Colonies; and such is now the necessity which constrains them to alter their former Systems of Government. The history of the present King of Great Britain is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over these States. To prove this, let Facts be submitted to a candid world.
+Starting in August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown, aiming to further my education regarding machine learning, database management, statistics, and natural language processing.
+
+# Education
+**Georgetown University** - 2026
+
+- Masters in Data Science & Analytics
+
+**Virginia Tech** - 2022
+
+- Bachelors of Science in Business Information Technology (BIT)
+
+- Bachelors of Science in Finance
+
+- Economics Minor
+
+
+# Work Experience
+
+### KPMG
+*Federal Technology Risk Management Associate*
+
+July 2022 - Present
+
+**1st Engagement:** As a TRM associate, I was responsible for researching the current-state of the DoD federal agency I was under contract for, and solving issues regarding segregation of duties (SoD). This resulted in me supporting the creation of an SoD governance document that was accepted by the agency.
+
+**2nd Engagement:** I am currently responsible for supporting a DoD federal agency with their IT audit-readiness goals for fiscal year 2023. While physically visiting clients sites across the US, I walkthrough and test the entirety of each site's SAP IT system controls for inter-site discrepancies, system errors, or internal control gaps.
+
+**3rd Engagment:** 
+
+**Miscellaneous:**
+
+- Living Green and API Business Resource Groups
+- KPMG Culture Catalyst
+- KPMG Health Equity Hackathon - 3rd Place
+
+### TIC Summer Camp
+*Python Programming Counseler*
+
+June 2021 - August 2021
+
+As a programming counselor, I was responsible for instructing campers aged 6-11 in Scratch, and campers aged 12-18 in Python. I used the built-in python platform within Processing 3 to teach middle and high school students the basics of programming (variables, syntax, for loops, while loops, functions, classes) so that they could ultimately build their own game by the end of each two week camp session.
+
