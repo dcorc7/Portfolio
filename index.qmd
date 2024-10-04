@@ -8,7 +8,7 @@ format:
 ---
 
 ::: {.grid}
-![](./images/photo.png)
+![](./images/photo.png){.my_image}
 
 [Resume](./documents/Resume.pdf)
 
@@ -39,7 +39,7 @@ Starting in August 2024, I began to pursue a Masters in Data Science and Analyti
 ### KPMG
 *Federal Technology Risk Management Associate*
 
-July 2022 - Present
+July 2022 - July 2024
 
 **1st Engagement:** As a TRM associate, I was responsible for researching the current-state of the DoD federal agency I was under contract for, and solving issues regarding segregation of duties (SoD). This resulted in me supporting the creation of an SoD governance document that was accepted by the agency.
 
