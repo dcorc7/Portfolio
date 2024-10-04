@@ -6,21 +6,14 @@ website:
   title: "Portfolio Website"
   navbar:
     left:
-      - href: index.qmd
-        text: About Me
-      - text: "Projects"
-        menu: 
-          - text: Project 1
-            href: ./pages/project1.qmd
-          - text: Project 2
-            href: ./pages/project2.qmd
+      - text: About Me
+        href: index.qmd
+      - text: Projects
+        href: ./pages/project_home.qmd
 
 format:
   html:
     theme: flatly
-    toc: true
-    toc-location: left
-    toc-title: "Table of Contents"
 
 
 
