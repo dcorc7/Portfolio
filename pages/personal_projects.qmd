@@ -8,9 +8,9 @@ format:
     toc-location: left
 ---
 
-# Soccer League Data API
+#  Soccer League Data API
 
-
+::: {.fa fa-futbol} ::: 
 A program that accesses football-data.org's soccer API to retrieve the current standings of Europe's top 5 soccer leagues. It will prompt the user to select which league they want to view, and has validation rules for inputs outside of the given league list. Once a list is chosen, the program accesses the API to display that league's current standings and offers an additional lookup.
 
 Languages: Python
