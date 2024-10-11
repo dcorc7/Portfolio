@@ -9,9 +9,7 @@ format:
 ---
 
 
-# Project 1
-
-# {{< fa html5 >}} "HokieEats" Food Delivery Service:
+# {{< fa code >}} "HokieEats" Food Delivery Service:
 
 I was tasked with creating a database-driven “review management” module for a fictional food delivery service website and integrating it with other team member’s sections of the project. I created 9 webpages using HTML, CSS, PHP, MySQL, D3.js, Ajax, JavaScript, and Bootstrap, all focused on user review creation, modification, and analysis.
 
