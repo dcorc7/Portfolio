@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Resume\n\n\nAbout Me\nI graduated from Virginia Tech’s Pamplin College of Business in May 2022 with two degrees in Business Information Technology and Finance, and a minor in Economics. Immediately after graduation, I worked in McLean, VA as a Federal Technology Risk Management Associate on a variety of IT audit readiness, segregation of duties, ICAM, and inventory management projects at KPMG over 2 years.\nStarting in August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown, aiming to further my education regarding machine learning, database management, statistics, and natural language processing.\n\n\nEducation\n\n\nGeorgetown University - 2026\n\nMasters in Data Science & Analytics\n\n\n\nVirginia Tech - 2022\n\nBachelors of Science in Business Information Technology (BIT)\nBachelors of Science in Finance\nEconomics Minor\n\n\n\n\n\nWork Experience\n\nKPMG\nFederal Technology Risk Management Associate\nJuly 2022 - July 2024\n1st Engagement: As a TRM associate, I was responsible for researching the current-state of the DoD federal agency I was under contract for, and solving issues regarding segregation of duties (SoD). This resulted in me supporting the creation of an SoD governance document that was accepted by the agency.\n2nd Engagement: I am currently responsible for supporting a DoD federal agency with their IT audit-readiness goals for fiscal year 2023. While physically visiting clients sites across the US, I walkthrough and test the entirety of each site’s SAP IT system controls for inter-site discrepancies, system errors, or internal control gaps.\n3rd Engagment:\nMiscellaneous:\n\nLiving Green and API Business Resource Groups\nKPMG Culture Catalyst\nKPMG Health Equity Hackathon - 3rd Place\n\n\n\nTIC Summer Camp\nPython Programming Counseler\nJune 2021 - August 2021\nAs a programming counselor, I was responsible for instructing campers aged 6-11 in Scratch, and campers aged 12-18 in Python. I used the built-in python platform within Processing 3 to teach middle and high school students the basics of programming (variables, syntax, for loops, while loops, functions, classes) so that they could ultimately build their own game by the end of each two week camp session."
+    "text": "About Me\nI graduated from Virginia Tech’s Pamplin College of Business in May 2022 with two degrees in Business Information Technology and Finance, and a minor in Economics. Immediately after graduation, I worked in McLean, VA as a Federal Technology Risk Management Associate on a variety of IT audit readiness, segregation of duties, ICAM, and inventory management projects at KPMG for two years.\nStarting in August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown. In this program, I aim to further explore concepts in machine learning, database management, statistics, and natural language processing (NLP).\n\n\nEducation\n\n\nGeorgetown University - 2026\n\nMasters in Data Science & Analytics\n\n\n\nVirginia Tech - 2022\n\nBachelors of Science in Business Information Technology (BIT)\nBachelors of Science in Finance\nEconomics Minor\n\n\n\n\n\nWork Experience\n\nKPMG\nFederal Technology Risk Management Associate\nJuly 2022 - July 2024\n1st Engagement: As a TRM associate, I was responsible for researching the current-state of the DoD federal agency I was under contract for, and solving issues regarding segregation of duties (SoD). This resulted in me supporting the creation of an SoD governance document that was accepted by the agency.\n2nd Engagement: I am currently responsible for supporting a DoD federal agency with their IT audit-readiness goals for fiscal year 2023. While physically visiting clients sites across the US, I walkthrough and test the entirety of each site’s SAP IT system controls for inter-site discrepancies, system errors, or internal control gaps.\n3rd Engagment:\nMiscellaneous:\n\nLiving Green and API Business Resource Groups\nKPMG Culture Catalyst\nKPMG Health Equity Hackathon - 3rd Place\n\n\n\nTIC Summer Camp\nPython Programming Counseler\nJune 2021 - August 2021\nAs a programming counselor, I was responsible for instructing campers aged 6-11 in Scratch, and campers aged 12-18 in Python. I used the built-in python platform within Processing 3 to teach middle and high school students the basics of programming (variables, syntax, for loops, while loops, functions, classes) so that they could ultimately build their own game by the end of each two week camp session."
   },
   {
     "objectID": "pages/academic_projects.html",
@@ -33,5 +33,26 @@
     "title": "Academic Projects",
     "section": "Project 2 Summary",
     "text": "Project 2 Summary\nView this project on Github"
+  },
+  {
+    "objectID": "pages/Resume.html",
+    "href": "pages/Resume.html",
+    "title": "Personal Projects",
+    "section": "",
+    "text": "Soccer League Data API\n\n\n\nResume\n\n\nResume Download"
+  },
+  {
+    "objectID": "Portfolio-Website/pages/resume.html",
+    "href": "Portfolio-Website/pages/resume.html",
+    "title": "Personal Projects",
+    "section": "",
+    "text": "Soccer League Data API\n\n\n\nResume\n\n\nResume Download"
+  },
+  {
+    "objectID": "pages/resume.html",
+    "href": "pages/resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Resume Download"
   }
 ]

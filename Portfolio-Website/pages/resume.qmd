@@ -1,0 +1,15 @@
+---
+title: Personal Projects
+
+format:
+  html:
+    toc: true
+    toc-title: Projects
+    toc-location: left
+---
+
+# Soccer League Data API
+
+![Resume](./documents/Resume.pdf)
+
+[Resume Download](./documents/Resume.pdf)

@@ -8,17 +8,29 @@ format:
 ---
 
 ::: {.grid}
+
+
+::: {.g-col-1}
+
 ![](./images/photo.png){.my_image}
 
-[Resume](./documents/Resume.pdf)
+::: 
 
+::: {.g-col-1}
+
+
+
+::: 
 
 :::
 
+
 # About Me
+
 I graduated from Virginia Tech's Pamplin College of Business in May 2022 with two degrees in Business Information Technology and Finance, and a minor in Economics. Immediately after graduation, I worked in McLean, VA as a Federal Technology Risk Management Associate on a variety of IT audit readiness, segregation of duties, ICAM, and inventory management projects at KPMG for two years.
 
 Starting in August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown. In this program, I aim to further explore concepts in machine learning, database management, statistics, and natural language processing (NLP).
+
 
 # Education
 

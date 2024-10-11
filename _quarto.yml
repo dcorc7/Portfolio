@@ -12,6 +12,8 @@ website:
         href: ./pages/academic_projects.qmd
       - text: Personal Projects
         href: ./pages/personal_projects.qmd
+      - text: Resume
+        href: ./pages/resume.qmd
     right:
       - icon: github
         href: https://github.com/dcorcoran7

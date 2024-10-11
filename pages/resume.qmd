@@ -1,0 +1,13 @@
+---
+title: Resume
+
+format:
+  html:
+    toc: true
+    toc-title: Projects
+    toc-location: left
+---
+
+![](../images/Resume.png){width=100% height="75%"}
+
+[Resume Download](../images/Resume.png)
