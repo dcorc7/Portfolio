@@ -21,17 +21,23 @@ I graduated from Virginia Tech's Pamplin College of Business in May 2022 with tw
 Starting in August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown, aiming to further my education regarding machine learning, database management, statistics, and natural language processing.
 
 # Education
+
+::: {.grid}
 **Georgetown University** - 2026
+
+**Virginia Tech** - 2022
 
 - Masters in Data Science & Analytics
 
-**Virginia Tech** - 2022
+
 
 - Bachelors of Science in Business Information Technology (BIT)
 
 - Bachelors of Science in Finance
 
 - Economics Minor
+
+:::
 
 
 # Work Experience
