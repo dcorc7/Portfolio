@@ -8,7 +8,7 @@ format:
     toc-location: left
 ---
 
-#  {{< fa futbol >}}    Soccer League Data API
+#  {{< fa futbol >}} Soccer League Data API
 
 A program that accesses football-data.org's soccer API to retrieve the current standings of Europe's top 5 soccer leagues. It will prompt the user to select which league they want to view, and has validation rules for inputs outside of the given league list. Once a list is chosen, the program accesses the API to display that league's current standings and offers an additional lookup.
 
@@ -21,7 +21,7 @@ Languages: Python
 
 
 
-# {{< fa music >}}    Spotify Top Tracks
+# {{< fa music >}} Spotify Top Tracks:
 
 Utilizing Spotipy and Spotify's API to retrieve song/artist data from an inputted Spotify account, this python program returns the selected user's top 25 tracks and artists within 3 different time periods: 4 weeks, 6 months, and all-time. Users must create an account on Spotify for Developers to obtain an API key.
 
@@ -33,14 +33,3 @@ Languages: Python
 [Download the code file](../project_code_files/SpotifyScraper.py)
 
 
-
-# {{< fa music >}}    Spotify Top Tracks
-
-Utilizing Spotipy and Spotify's API to retrieve song/artist data from an inputted Spotify account, this python program returns the selected user's top 25 tracks and artists within 3 different time periods: 4 weeks, 6 months, and all-time. Users must create an account on Spotify for Developers to obtain an API key.
-
-Languages: Python
-
-### Code
-[View this project on Github](https://github.com/dcorcoran7/SpotifyTopTracks)
-
-[Download the code file](../project_code_files/SpotifyScraper.py)

@@ -27,7 +27,7 @@ format:
 
 # About Me
 
-I graduated from Virginia Tech's Pamplin College of Business in May 2022 with two degrees in Business Information Technology and Finance, and a minor in Economics. Immediately after graduation, I worked in McLean, VA as a Federal Technology Risk Management Associate on a variety of IT audit readiness, segregation of duties, ICAM, and inventory management projects at KPMG for two years.
+I graduated from Virginia Tech's Pamplin College of Business in May 2022 with two degrees in Business Information Technology and Finance, and a minor in Economics. Immediately after graduation, I worked in McLean, VA as a Federal Technology Risk Management Associate on a variety of IT audit readiness; segregation of dutie;, identity credentialing, and access management (ICAM); and inventory management projects at KPMG for two years.
 
 Starting in August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown. In this program, I aim to further explore concepts in machine learning, database management, statistics, and natural language processing (NLP).
 
@@ -62,11 +62,14 @@ Starting in August 2024, I began to pursue a Masters in Data Science and Analyti
 
 July 2022 - July 2024
 
-**1st Engagement:** As a TRM associate, I was responsible for researching the current-state of the DoD federal agency I was under contract for, and solving issues regarding segregation of duties (SoD). This resulted in me supporting the creation of an SoD governance document that was accepted by the agency.
+**1st Engagement:** As a Technology Risk Management (TRM) Associate, I was responsible for researching the current-state of the DoD federal agency I was under contract for, recommending potential IT governance structure solutions, and establishing an SoD framework. This engagement resulted in the creation of an SoD governance document that was accepted by the agency.
 
-**2nd Engagement:** I am currently responsible for supporting a DoD federal agency with their IT audit-readiness goals for fiscal year 2023. While physically visiting clients sites across the US, I walkthrough and test the entirety of each site's SAP IT system controls for inter-site discrepancies, system errors, or internal control gaps.
+**2nd Engagement:** I was responsible for supporting a DoD federal agency with their IT audit-readiness goals for fiscal year 2023. While physically visiting client sites across the United States, I walked through and tested the entirety of each site's SAP IT system controls to identify inter-site discrepancies, system errors, and internal control gaps. In addition to on-site control testing, I assisted in the creation of an end-to-end(E2E) process control document, which documented all known controls and control gaps.
 
-**3rd Engagment:** 
+**3rd Engagement:** My third engagement at KPMG involved supporting a DoD government agency with the completion of corrective action plan (CAP) downgrade package for SoD and ICAM notices of findings and recommendation (NFRs). This CAP downgrade package consisted of an E2E document, control gap analysis, posting logic assessment, risk and control matrix, and responsibility-accountability matrix.
+
+**4th Engagment:** During my last engagement at KPMG, I assisted in the creation of a program governance charter, current-state SoD/ICAM assessment, and Microsoft PowerBI monitoring dashboard for a specific DoD's agency's enterprise-wide SoD and ICAM implementation effort. In addition, I was responsible for the maintenance and submission of monthly status reports and bi-weekly activity reports.
+
 
 **Miscellaneous:**
 
@@ -79,5 +82,5 @@ July 2022 - July 2024
 
 June 2021 - August 2021
 
-As a programming counselor, I was responsible for instructing campers aged 6-11 in Scratch, and campers aged 12-18 in Python. I used the built-in python platform within Processing 3 to teach middle and high school students the basics of programming (variables, syntax, for loops, while loops, functions, classes) so that they could ultimately build their own game by the end of each two week camp session.
+As a programming counselor, I was responsible for instructing campers aged 6-11 in Scratch, and campers aged 12-18 in Python. I used the built-in python platform within Processing 3 to teach middle and high school students the basics of programming (variables, syntax, for loops, while loops, functions, classes) so that they could ultimately build their own game by the end of each two-week camp session.
 
