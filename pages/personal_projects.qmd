@@ -19,7 +19,7 @@ Languages: Python
 
 [Download the code file](../project_code_files/SoccerData.py)
 
-# {{< fa spotify >}}  Spotify Top Tracks
+# {{< fa music >}}  Spotify Top Tracks
 
 Utilizing Spotipy and Spotify's API to retrieve song/artist data from an inputted Spotify account, this python program returns the selected user's top 25 tracks and artists within 3 different time periods: 4 weeks, 6 months, and all-time. Users must create an account on Spotify for Developers to obtain an API key.
 
