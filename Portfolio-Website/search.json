@@ -11,7 +11,7 @@
     "href": "pages/academic_projects.html",
     "title": "Academic Projects",
     "section": "",
-    "text": "Project 1\n\n\n “HokieEats” Food Delivery Service:\nI was tasked with creating a database-driven “review management” module for a fictional food delivery service website and integrating it with other team member’s sections of the project. I created 9 webpages using HTML, CSS, PHP, MySQL, D3.js, Ajax, JavaScript, and Bootstrap, all focused on user review creation, modification, and analysis.\nLanguages: HTML, CSS, JavaScript, PHP, Bootstrap, J3.DS, Ajax\n\nCode\nView this project on Github"
+    "text": "“HokieEats” Food Delivery Service:\nI was tasked with creating a database-driven “review management” module for a fictional food delivery service website and integrating it with other team member’s sections of the project. I created 9 webpages using HTML, CSS, PHP, MySQL, D3.js, Ajax, JavaScript, and Bootstrap, all focused on user review creation, modification, and analysis.\nLanguages: HTML, CSS, JavaScript, PHP, Bootstrap, J3.DS, Ajax\n\nCode\nView this project on Github"
   },
   {
     "objectID": "index.html",

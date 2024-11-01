@@ -4,7 +4,7 @@ from datetime import date
 
 websiteURL = "https://www.football-data.org/"
 
-apiKey = "da6fc67156e34b5580ff508b05945c9f"
+apiKey = "insert_API_key"
 
 selectedID = ""
 selectedStandingsURI = ""

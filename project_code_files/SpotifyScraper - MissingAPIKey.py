@@ -7,9 +7,9 @@ SpotipyURL = "https://spotipy.readthedocs.io/en/2.22.1/"
 SpotifyForDevelopersWebsite = "https://developer.spotify.com/"
 
 # davidcorcoran7 user Information
-clientID = "f56a0a221a36493099730be85873126a"
-clientSecret = "52a7420b9ae64e0fbe137712dff96949"
-userID = "david.corcoran7"
+clientID = "insert_client_ID"
+clientSecret = "insert_client_Secret"
+userID = "insert_user_ID"
 
 client_credentials_manager = SpotifyClientCredentials(client_id= clientID,
                                                       client_secret=clientSecret)
