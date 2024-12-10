@@ -1,17 +1,25 @@
 project:
   type: website
-  output-dir: Portfolio-Website
+  output-dir: Homepage
 
 website:
-  title: "Portfolio Website"
+  title: "David Corcoran"
+  back-to-top-navigation: true
   navbar:
+    title: David Corcoran
     left:
       - text: About Me
         href: index.qmd
       - text: Academic Projects
-        href: ./pages/academic_projects.qmd
+        menu:
+          - text: Fall 2024 - DSAN 5000 Analyzing Features that Influence Success in the Film Industry
+            href: https://corcoran.georgetown.domains/5000-Project/landing_page/landing_page.html
+          - text: Fall 2024 - DSAN 5100 Analyzing Airbnb Features that Rental PRicing Decisions
+            href: www.google.com
       - text: Personal Projects
-        href: ./pages/personal_projects.qmd
+        menu:
+          - text: Placeholder
+            href: www.google.com
       - text: Resume
         href: ./pages/resume.qmd
     right:
@@ -25,6 +33,10 @@ website:
 format:
   html:
     theme: flatly
+    toc: true
+    toc-location: left
+    toc-title: Table of Contents
+    css: ./stylesheets/styles.css
 
 
 

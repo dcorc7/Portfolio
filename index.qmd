@@ -1,86 +1,128 @@
----
-format:
-  html:
-    toc: true
-    toc-location: left
-    toc-title: Table of Contents
-    css: ./stylesheets/styles.css
----
-
-::: {.grid}
-
-
-::: {.g-col-1}
-
-![](./images/photo.png){.my_image}
-
-::: 
-
-::: {.g-col-1}
-
-
-
-::: 
-
-:::
-
+<div class = "my_image_div">
+  ![](./assets/photo.png){.my_image width=250px}
+</div>
 
 # About Me
 
-I graduated from Virginia Tech's Pamplin College of Business in May 2022 with two degrees in Business Information Technology and Finance, and a minor in Economics. Immediately after graduation, I worked in McLean, VA as a Federal Technology Risk Management Associate on a variety of IT audit readiness; segregation of dutie;, identity credentialing, and access management (ICAM); and inventory management projects at KPMG for two years.
+I graduated from Virginia Tech's Pamplin College of Business in May 2022 with two degrees in Business Information Technology and Finance, and a minor in Economics. Immediately after graduation, I worked in McLean, VA as a Federal Technology Risk Management Associate on a variety of IT audit readiness, segregation of duties (SoD),ICAM, and inventory management projects at KPMG for two years.
 
-Starting in August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown. In this program, I aim to further explore concepts in machine learning, database management, statistics, and natural language processing (NLP).
+In August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown University. In this program, I aim to further explore concepts in machine learning, database management, statistics, and natural language processing (NLP).
 
+---
 
 # Education
 
-::: {.grid}
+**Georgetown University**
 
-::: {.g-col-1}
-**Georgetown University** - 2026
+Washington D.C. | Expected Graduation: May 2026
 
-- Masters in Data Science & Analytics
+::: {.grid .education_grid}
+::: {.g-col .grid_picture}
+![](./assets/georgetown_logo.gif){width=100px}
 :::
 
-::: {.g-col-1}
-**Virginia Tech** - 2022
+::: {.g-col}
+- Masters in Data Science & Analytics
 
+- Merit Scholarship Recipient
+:::
+:::
+
+
+**Virginia Polytechnic and State University (Virginia Tech)**
+
+Blacksburg, VA | Graduated: May 2022
+
+::: {.grid .education_grid}
+::: {.g-col .grid_picture}
+![](./assets/vt_logo.png){width=100px}
+:::
+
+::: {.g-col}
 - Bachelors of Science in Business Information Technology (BIT)
-
+  
+  - Track: Computer Decision Support Systems (DSS)
+  
 - Bachelors of Science in Finance
-
+  
+  - Track: Investment Management
+  
 - Economics Minor
 :::
 
 :::
 
+---
 
 # Work Experience
 
-### KPMG
-*Federal Technology Risk Management Associate*
+**KPMG** - *Federal Technology Risk Management Associate*
 
-July 2022 - July 2024
+McLean, VA | July 2022 - July 2024
 
-**1st Engagement:** As a Technology Risk Management (TRM) Associate, I was responsible for researching the current-state of the DoD federal agency I was under contract for, recommending potential IT governance structure solutions, and establishing an SoD framework. This engagement resulted in the creation of an SoD governance document that was accepted by the agency.
+::: {.grid .work_experience_grid}
 
-**2nd Engagement:** I was responsible for supporting a DoD federal agency with their IT audit-readiness goals for fiscal year 2023. While physically visiting client sites across the United States, I walked through and tested the entirety of each site's SAP IT system controls to identify inter-site discrepancies, system errors, and internal control gaps. In addition to on-site control testing, I assisted in the creation of an end-to-end(E2E) process control document, which documented all known controls and control gaps.
+::: {.g-col .grid_picture}
+![](./assets/kpmg_logo.jfif){width=100px}
+:::
 
-**3rd Engagement:** My third engagement at KPMG involved supporting a DoD government agency with the completion of corrective action plan (CAP) downgrade package for SoD and ICAM notices of findings and recommendation (NFRs). This CAP downgrade package consisted of an E2E document, control gap analysis, posting logic assessment, risk and control matrix, and responsibility-accountability matrix.
+::: {.g-col}
+- Assisted in the creation of an SoD governance document, recommending IT goverance structure solutions and SoD frameworks
 
-**4th Engagment:** During my last engagement at KPMG, I assisted in the creation of a program governance charter, current-state SoD/ICAM assessment, and Microsoft PowerBI monitoring dashboard for a specific DoD's agency's enterprise-wide SoD and ICAM implementation effort. In addition, I was responsible for the maintenance and submission of monthly status reports and bi-weekly activity reports.
+- Performed walkthoughs, tests of design, and tests of effectiveness for SAP IT system controls to identify inter-site discrepancies, system errors, and internal control gaps
+
+- Completed a corrective action plan (CAP) downgrade package for SoD and ICAM notices of findings and recommendation (NFRs)
+   - The CAP downgrade package consisted of an end-to-end (E2E) process document, control gap analysis, posting logic assessment, risk and control matrix, and responsibility-accountability matrix.
+
+- Initiated a DoD agency's enterprise-wide SoD and ICAM implementation effort, involving the creation of a program governance charter, current-state SoD/ICAM assessment, and Microsoft PowerBI monitoring dashboard
+:::
+
+:::
 
 
-**Miscellaneous:**
+**TIC Summer Camp** - *Python Programming Counseler*
 
-- Living Green and API Business Resource Groups
-- KPMG Culture Catalyst
-- KPMG Health Equity Hackathon - 3rd Place
+McLean, VA | June 2021 - August 2021
 
-### TIC Summer Camp
-*Python Programming Counseler*
+::: {.grid .work_experience_grid}
 
-June 2021 - August 2021
+::: {.g-col .grid_picture}
+![](./assets/TIC_logo.jpg){width=100px}
+:::
 
-As a programming counselor, I was responsible for instructing campers aged 6-11 in Scratch, and campers aged 12-18 in Python. I used the built-in python platform within Processing 3 to teach middle and high school students the basics of programming (variables, syntax, for loops, while loops, functions, classes) so that they could ultimately build their own game by the end of each two-week camp session.
+::: {.g-col}
+- Taught campers aged 6 - 18 Python programming funamentals (variables, syntax, loops, functions, classes) using Processing 3
+:::
+
+:::
+
+---
+
+# Technical Skills
+
+::: {.grid .skills_grid}
+
+::: {.g-col}
+![](./assets/python.png){width=100px}
+:::
+
+::: {.g-col}
+![](./assets/R.png){width=100px}
+:::
+
+::: {.g-col}
+![](./assets/sql.svg){height=100px}
+:::
+
+::: {.g-col}
+![](./assets/html.png){width=100px}
+:::
+
+::: {.g-col}
+![](./assets/powerbi.svg){width=100px} 
+:::
+
+:::
+
+---
 

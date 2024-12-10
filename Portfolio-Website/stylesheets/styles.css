@@ -1,9 +1,0 @@
-.grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-  }
-
-.my_image {
-  border-radius: 25px;
-}

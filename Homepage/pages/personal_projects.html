@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Academic Projects – Portfolio Website</title>
+<title>Personal Projects – David Corcoran</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">Portfolio Website</span>
+    <span class="navbar-title">David Corcoran</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -93,14 +93,32 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../index.html"> 
 <span class="menu-text">About Me</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="../pages/academic_projects.html" aria-current="page"> 
-<span class="menu-text">Academic Projects</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-academic-projects" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Academic Projects</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-academic-projects">    
+        <li>
+    <a class="dropdown-item" href="https://corcoran.georgetown.domains/5000-Project/landing_page/landing_page.html">
+ <span class="dropdown-text">Fall 2024 - DSAN 5000 Analyzing Features that Influence Success in the Film Industry</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../pages/personal_projects.html"> 
-<span class="menu-text">Personal Projects</span></a>
+        <li>
+    <a class="dropdown-item" href="../www.google.com">
+ <span class="dropdown-text">Fall 2024 - DSAN 5100 Analyzing Airbnb Features that Rental PRicing Decisions</span></a>
   </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-personal-projects" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Personal Projects</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-personal-projects">    
+        <li>
+    <a class="dropdown-item" href="../www.google.com">
+ <span class="dropdown-text">Placeholder</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="../pages/resume.html"> 
 <span class="menu-text">Resume</span></a>
@@ -132,9 +150,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Projects</h2>
    
   <ul>
-  <li><a href="#hokieeats-food-delivery-service" id="toc-hokieeats-food-delivery-service" class="nav-link active" data-scroll-target="#hokieeats-food-delivery-service"><i class="fa-solid fa-code" aria-label="code"></i> “HokieEats” Food Delivery Service:</a>
+  <li><a href="#soccer-league-data-api" id="toc-soccer-league-data-api" class="nav-link active" data-scroll-target="#soccer-league-data-api"><i class="fa-solid fa-futbol" aria-label="futbol"></i> Soccer League Data API</a>
   <ul class="collapse">
   <li><a href="#code" id="toc-code" class="nav-link" data-scroll-target="#code">Code</a></li>
+  </ul></li>
+  <li><a href="#spotify-top-tracks" id="toc-spotify-top-tracks" class="nav-link" data-scroll-target="#spotify-top-tracks"><i class="fa-solid fa-music" aria-label="music"></i> Spotify Top Tracks:</a>
+  <ul class="collapse">
+  <li><a href="#code-1" id="toc-code-1" class="nav-link" data-scroll-target="#code-1">Code</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -148,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Academic Projects</h1>
+<h1 class="title">Personal Projects</h1>
 </div>
 
 
@@ -165,13 +187,24 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="hokieeats-food-delivery-service" class="level1">
-<h1><i class="fa-solid fa-code" aria-label="code"></i> “HokieEats” Food Delivery Service:</h1>
-<p>I was tasked with creating a database-driven “review management” module for a fictional food delivery service website and integrating it with other team member’s sections of the project. I created 9 webpages using HTML, CSS, PHP, MySQL, D3.js, Ajax, JavaScript, and Bootstrap, all focused on user review creation, modification, and analysis.</p>
-<p>Languages: HTML, CSS, JavaScript, PHP, Bootstrap, J3.DS, Ajax</p>
+<section id="soccer-league-data-api" class="level1">
+<h1><i class="fa-solid fa-futbol" aria-label="futbol"></i> Soccer League Data API</h1>
+<p>A program that accesses football-data.org’s soccer API to retrieve the current standings of Europe’s top 5 soccer leagues. It will prompt the user to select which league they want to view, and has validation rules for inputs outside of the given league list. Once a list is chosen, the program accesses the API to display that league’s current standings and offers an additional lookup.</p>
+<p>Languages: Python</p>
 <section id="code" class="level3">
 <h3 class="anchored" data-anchor-id="code">Code</h3>
-<p><a href="https://github.com/dcorcoran7/HokieEatsWebpages">View this project on Github</a></p>
+<p><a href="https://github.com/dcorcoran7/SoccerLeagueStandingsAPI">View this project on Github</a></p>
+<p><a href="../project_code_files/SoccerData - MissingAPIKey.py">Download the code file</a></p>
+</section>
+</section>
+<section id="spotify-top-tracks" class="level1">
+<h1><i class="fa-solid fa-music" aria-label="music"></i> Spotify Top Tracks:</h1>
+<p>Utilizing Spotipy and Spotify’s API to retrieve song/artist data from an inputted Spotify account, this python program returns the selected user’s top 25 tracks and artists within 3 different time periods: 4 weeks, 6 months, and all-time. Users must create an account on Spotify for Developers to obtain an API key.</p>
+<p>Languages: Python</p>
+<section id="code-1" class="level3">
+<h3 class="anchored" data-anchor-id="code-1">Code</h3>
+<p><a href="https://github.com/dcorcoran7/SpotifyTopTracks">View this project on Github</a></p>
+<p><a href="../project_code_files/SpotifyScraper - MissingAPIKey.py">Download the code file</a></p>
 
 
 </section>
