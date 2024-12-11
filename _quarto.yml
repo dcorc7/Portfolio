@@ -14,12 +14,12 @@ website:
         menu:
           - text: Fall 2024 - DSAN 5000 Analyzing Features that Influence Success in the Film Industry
             href: https://corcoran.georgetown.domains/5000-Project/landing_page/landing_page.html
-          - text: Fall 2024 - DSAN 5100 Analyzing Airbnb Features that Rental PRicing Decisions
-            href: www.google.com
+          - text: Fall 2024 - DSAN 5100 Analyzing Airbnb Features that Rental Pricing Decisions
+            href: https://corcoran.georgetown.domains/5100-Project/index.html
       - text: Personal Projects
         menu:
           - text: Placeholder
-            href: www.google.com
+            href: https://www.google.com
       - text: Resume
         href: ./pages/resume.qmd
     right:
