@@ -8,7 +8,7 @@ website:
   navbar:
     title: David Corcoran
     left:
-      - text: About Me
+      - text: Homepage
         href: index.qmd
       - text: Academic Projects
         menu:
