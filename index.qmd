@@ -2,8 +2,8 @@
 title: About David Corcoran
 ---
 
-<div class="my_image_div" style = "display: flex; align-items: flex-start; justify-content: center; margin-bottom: 15px;">
-  <img src = "./assets/photo.png" class = "my_image" style="border-radius: 50px; width: 250px; margin-right: 15px;" />
+<div class="my_image_div" style = "display: flex; align-items: center; justify-content: center;">
+  <img src = "./assets/photo.png" class = "my_image" style = "border-radius: 50px; width: 250px;" />
 </div>
 
 <div class = "text-content">
@@ -11,6 +11,7 @@ title: About David Corcoran
 
   In August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown University. In this program, I aim to further explore concepts in machine learning, database management, statistics, and natural language processing (NLP).
 </div>
+<br>
 
 ---
 
