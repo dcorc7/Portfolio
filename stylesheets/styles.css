@@ -7,8 +7,8 @@
 
 .my_image {
   border-radius: 50px;
-  max-width: 250px;
-  height: auto;
+  width: 250px;                /* Fixes the width to 250px */
+  height: 250px;
   margin-right: 15px;
 }
 
