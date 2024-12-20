@@ -3,7 +3,7 @@ title: About David Corcoran
 ---
 
 <div class = "my_image_div">
-  <img src = "./assets/photo.png" class = "my_image" />
+  <img src = "./assets/photo.png" class = "my_image" style="width: 250px;"/>
 </div>
 
 <div class = "text-content">
