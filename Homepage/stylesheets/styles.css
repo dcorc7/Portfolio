@@ -1,13 +1,30 @@
-.my_image {
-  border-radius: 50px;
+.my_image_div {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-bottom: 15px;
+  gap: 15px;
 }
 
-.my_image_div {
-  float: right; 
-  margin-left: 15px; 
-  margin-bottom: 15px;
-  padding-top: 40px;
-  text-align: center;
+.my_image {
+  border-radius: 50px;
+  max-width: 100%;
+  height: auto;
+}
+
+.text-content {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .my_image_div {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .text-content {
+    text-align: center;
+  }
 }
 
 .education_grid {
