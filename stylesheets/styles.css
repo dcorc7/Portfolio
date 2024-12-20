@@ -1,33 +1,32 @@
 .my_image_div {
   display: flex;
-  justify-content: center;
   align-items: flex-start;
-  margin-bottom: 15px;
-  gap: 15px;
-  border: black line 2px;
+  justify-content: center;
+  margin-bottom: 15px; 
+  border: black solid 2px;
 }
 
 .my_image {
   border-radius: 50px;
-  max-width: 100%;
+  width: 250px; 
   height: auto;
+  margin-right: 15px;
 }
 
 .text-content {
   flex: 1;
-  border: black line 2px;
+  padding: 10px;
 }
+
 
 @media (max-width: 768px) {
   .my_image_div {
     flex-direction: column;
     align-items: center;
-    border: black line 2px;
   }
-  
+
   .text-content {
     text-align: center;
-    border: black line 2px;
   }
 }
 
