@@ -1,9 +1,18 @@
-.content {
-  width: 120%;
-  margin: 0 auto;
+
+
+@media (min-width: 769px) {
+  .content {
+    width: 130%;
+    margin: 0 auto;
+  }
 }
 
 @media (max-width: 768px) {
+  .content {
+    width: 100%;
+    margin: 0 auto;
+  }
+
   .my_image_div {
     flex-direction: column;
     align-items: center;
