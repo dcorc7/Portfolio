@@ -14,7 +14,7 @@ website:
         href: index.qmd
       - text: Academic Projects
         menu:
-          - text: Fall 2024 - DSAN 5000 Analyzing Features that Influence Success in the Film Industry
+          - text: Fall 2024 - DSAN 5000 Examining Success Metrics in the Film Industry
             href: https://corcoran.georgetown.domains/5000-Project/index.html
           - text: Fall 2024 - DSAN 5100 Analyzing Airbnb Features that Influence Rental Pricing Decisions
             href: https://corcoran.georgetown.domains/5100-Project/index.html
