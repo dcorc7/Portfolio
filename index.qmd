@@ -11,7 +11,7 @@ title: About David Corcoran
 
   In August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown University. In this program, I aim to further explore concepts in machine learning, database management, statistics, and natural language processing (NLP).
 </div>
-<br>
+<br><br>
 
 ---
 
