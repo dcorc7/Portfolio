@@ -17,9 +17,6 @@ Languages: Python
 ### Code
 [View this project on Github](https://github.com/dcorcoran7/SoccerLeagueStandingsAPI)
 
-[Download the code file](../project_code_files/SoccerData - MissingAPIKey.py)
-
-
 
 # {{< fa music >}} Spotify Top Tracks:
 
@@ -29,7 +26,3 @@ Languages: Python
 
 ### Code
 [View this project on Github](https://github.com/dcorcoran7/SpotifyTopTracks)
-
-[Download the code file](../project_code_files/SpotifyScraper - MissingAPIKey.py)
-
-
