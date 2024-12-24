@@ -17,7 +17,7 @@ title: About David Corcoran
 
 # Education
 
-**Georgetown University**
+<span style="font-size: 22px; font-weight: bold;">Georgetown University</span>
 
 Washington D.C. | Expected Graduation: May 2026
 
@@ -27,14 +27,14 @@ Washington D.C. | Expected Graduation: May 2026
 :::
 
 ::: {.g-col}
-- Masters in Data Science & Analytics
+- MS in Data Science & Analytics
 
 - Merit Scholarship Recipient
 :::
 :::
 
 
-**Virginia Polytechnic and State University (Virginia Tech)**
+<span style="font-size: 22px; font-weight: bold;">Virginia Polytechnic and State University (Virginia Tech)</span>
 
 Blacksburg, VA | Graduated: May 2022
 
@@ -44,11 +44,11 @@ Blacksburg, VA | Graduated: May 2022
 :::
 
 ::: {.g-col}
-- Bachelors of Science in Business Information Technology (BIT)
+- BS in Business Information Technology (BIT)
   
   - Track: Computer Decision Support Systems (DSS)
   
-- Bachelors of Science in Finance
+- BS in Finance
   
   - Track: Investment Management
   
@@ -61,7 +61,7 @@ Blacksburg, VA | Graduated: May 2022
 
 # Work Experience
 
-**KPMG** - *Federal Technology Risk Management Associate*
+<span style="font-size: 22px; font-weight: bold;">KPMG</span>  - *Federal Technology Risk Management Associate*
 
 McLean, VA | July 2022 - July 2024
 
@@ -84,8 +84,7 @@ McLean, VA | July 2022 - July 2024
 
 :::
 
-
-**TIC Summer Camp** - *Python Programming Counseler*
+<span style="font-size: 22px; font-weight: bold;">TIC Summer Camp</span> - *Python Programming Counseler*
 
 McLean, VA | June 2021 - August 2021
 
