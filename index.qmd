@@ -44,13 +44,9 @@ Blacksburg, VA | Graduated: May 2022
 :::
 
 ::: {.g-col}
-- BS in Business Information Technology (BIT)
+- BS in Business Information Technology (BIT) | *Computer Decision Support Systems (DSS)*
   
-  - Track: Computer Decision Support Systems (DSS)
-  
-- BS in Finance
-  
-  - Track: Investment Management
+- BS in Finance | *Investment Management*
   
 - Economics Minor
 :::
