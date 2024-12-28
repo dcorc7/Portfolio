@@ -22,8 +22,8 @@ website:
             href: https://corcoran.georgetown.domains/6300-Project/index.html
       - text: Personal Projects
         menu:
-          - text: Placeholder
-            href: https://www.google.com
+          - text: Movie Recommendation Model
+            href: https://corcoran.georgetown.domains/Movie-Recommendation-Model/index.html
       - text: Resume
         href: ./pages/resume.qmd
     right:
