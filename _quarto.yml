@@ -28,7 +28,7 @@ website:
         href: ./pages/resume.qmd
     right:
       - icon: github
-        href: https://github.com/dcorcoran7
+        href: https://github.com/dcorc7
         aria-label: GitHub
       - icon: linkedin
         href: https://www.linkedin.com/in/david-corcoran-70677917a/
