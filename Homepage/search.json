@@ -7,24 +7,10 @@
     "text": "Back to top"
   },
   {
-    "objectID": "pages/academic_projects.html",
-    "href": "pages/academic_projects.html",
-    "title": "Academic Projects",
-    "section": "",
-    "text": "“HokieEats” Food Delivery Service:\nI was tasked with creating a database-driven “review management” module for a fictional food delivery service website and integrating it with other team member’s sections of the project. I created 9 webpages using HTML, CSS, PHP, MySQL, D3.js, Ajax, JavaScript, and Bootstrap, all focused on user review creation, modification, and analysis.\nLanguages: HTML, CSS, JavaScript, PHP, Bootstrap, J3.DS, Ajax\n\nCode\nView this project on Github\n\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About David Corcoran",
     "section": "",
     "text": "I graduated from Virginia Tech’s Pamplin College of Business in May 2022 with two degrees in Business Information Technology and Finance, and a minor in Economics. Immediately after graduation, I worked for two years in McLean, VA as a Federal Technology Risk Management Associate at KPMG. In this role, I gained hands-on experience in IT control audit readiness, segregation of duties (SoD), identity and access management (ICAM), and inventory management, where I contributed to improving risk mitigation processes, creating corrective action plan (CAP) downgrade packages, and aligning IT controls with regulatory requirements.\nIn August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown University. In this program, I aim deepen my understanding of machine learning, database management, statistics, preditive modeling, and natural language processing (NLP). I am eager to apply my knowledge in data-driven decision-making to future roles in technology, where I hope to leverage the data science concepts I have learned while attending this program.\n\n\n\n\nEducation\nGeorgetown University\nWashington D.C. | Expected Graduation: May 2026\n\n\n\n\n\n\nMS in Data Science & Analytics\nMerit Scholarship Recipient\n\n\n\nVirginia Polytechnic and State University (Virginia Tech)\nBlacksburg, VA | Graduated: May 2022\n\n\n\n\n\n\nBS in Business Information Technology (BIT) | Computer Decision Support Systems (DSS)\nBS in Finance | Investment Management\nEconomics Minor\n\n\n\n\n\n\nWork Experience\nKPMG - Federal Technology Risk Management Associate\nMcLean, VA | July 2022 - July 2024\n\n\n\n\n\n\nAssisted in the creation of an SoD governance document, recommending IT goverance structure solutions and SoD frameworks\nPerformed walkthoughs, tests of design, and tests of effectiveness for SAP IT system controls to identify inter-site discrepancies, system errors, and internal control gaps\nCompleted a corrective action plan (CAP) downgrade package for SoD and ICAM notices of findings and recommendation (NFRs)\n\nThe CAP downgrade package consisted of an end-to-end (E2E) process document, control gap analysis, posting logic assessment, risk and control matrix, and responsibility-accountability matrix.\n\nInitiated a DoD agency’s enterprise-wide SoD and ICAM implementation effort, involving the creation of a program governance charter, current-state SoD/ICAM assessment, and Microsoft PowerBI monitoring dashboard\n\n\n\nTIC Summer Camp - Python Programming Counseler\nMcLean, VA | June 2021 - August 2021\n\n\n\n\n\n\nTaught campers aged 6 - 18 Python programming funamentals (variables, syntax, loops, functions, classes) using Processing 3\n\n\n\n\n\n\nTechnical Skills\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "pages/personal_projects.html",
-    "href": "pages/personal_projects.html",
-    "title": "Personal Projects",
-    "section": "",
-    "text": "Soccer League Data API\nA program that accesses football-data.org’s soccer API to retrieve the current standings of Europe’s top 5 soccer leagues. It will prompt the user to select which league they want to view, and has validation rules for inputs outside of the given league list. Once a list is chosen, the program accesses the API to display that league’s current standings and offers an additional lookup.\nLanguages: Python\n\nCode\nView this project on Github\n\n\n\n Spotify Top Tracks:\nUtilizing Spotipy and Spotify’s API to retrieve song/artist data from an inputted Spotify account, this python program returns the selected user’s top 25 tracks and artists within 3 different time periods: 4 weeks, 6 months, and all-time. Users must create an account on Spotify for Developers to obtain an API key.\nLanguages: Python\n\nCode\nView this project on Github\n\n\n\n\n\n Back to top"
   }
 ]
