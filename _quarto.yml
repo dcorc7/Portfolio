@@ -20,7 +20,7 @@ website:
             href: https://corcoran.georgetown.domains/5100-Project/index.html
           - text: Fall 2024 - DSAN 6300 Analysis of FAA Passenger Flight Data
             href: https://corcoran.georgetown.domains/6300-Project/index.html
-          - text: Classifying Dashcam Collision Videos Using Neural Networks
+          - text: Spring 2024 - Classifying Dashcam Collision Videos Using Neural Networks
             href: https://corcoran.georgetown.domains/Vehicle_Collision_Detection_Project/index.html
       - text: Personal Projects
         menu:
