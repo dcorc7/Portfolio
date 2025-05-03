@@ -25,7 +25,7 @@ website:
           - text: Spring 2024 - Predicting Chronic Absenteeism in US School Districts
             href: https://corcoran.georgetown.domains/Chronic-Absenteeism-Project/index.html
           - text: Spring 2024 - Visualizing Formula 1
-            href: https://corcoran.georgetown.domains/Visualizing-Formula-1/index.html
+            href: https://corcoran.georgetown.domains/Visualizing_Formula_1/index.html
       - text: Personal Projects
         menu:
           - text: Movie Recommendation Model
