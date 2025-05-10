@@ -20,11 +20,11 @@ website:
             href: https://corcoran.georgetown.domains/5100-Project/index.html
           - text: Fall 2024 - DSAN 6300 Analysis of FAA Passenger Flight Data
             href: https://corcoran.georgetown.domains/6300-Project/index.html
-          - text: Spring 2024 - Classifying Dashcam Collision Videos Using Neural Networks
+          - text: Spring 2024 - DSAN 6600 Classifying Dashcam Collision Videos Using Neural Networks
             href: https://corcoran.georgetown.domains/Vehicle-Collision-Detection-Project/index.html
-          - text: Spring 2024 - Predicting Chronic Absenteeism in US School Districts
+          - text: Spring 2024 - DSAN 5300 Predicting Chronic Absenteeism in US School Districts
             href: https://corcoran.georgetown.domains/Chronic-Absenteeism-Project/index.html
-          - text: Spring 2024 - Visualizing Formula 1
+          - text: Spring 2024 - DSAN 5200 Visualizing Formula 1
             href: https://corcoran.georgetown.domains/Visualizing_Formula_1/index.html
       - text: Personal Projects
         menu:
