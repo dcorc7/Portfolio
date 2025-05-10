@@ -28,6 +28,8 @@ website:
             href: https://corcoran.georgetown.domains/Visualizing_Formula_1/index.html
       - text: Personal Projects
         menu:
+          - text: FIFA Soccer Player Position Classifier
+            href: https://corcoran.georgetown.domains/FIFA-Position-Classifier/index.html
           - text: Movie Recommendation Model
             href: https://corcoran.georgetown.domains/Movie-Recommendation-Model/index.html
       - text: Resume
