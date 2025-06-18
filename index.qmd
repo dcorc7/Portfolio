@@ -57,6 +57,22 @@ Blacksburg, VA | Graduated: May 2022
 
 # Work Experience
 
+<span style="font-size: 22px; font-weight: bold;">NASA</span>  - *Data & Analytics Intern*
+
+Los Angeles, CA | June 2025 - August 2025
+
+::: {.grid .work_experience_grid}
+
+::: {.g-col .grid_picture}
+![](./assets/nasa_logo.png){width=100px}
+:::
+
+::: {.g-col}
+
+:::
+
+:::
+
 <span style="font-size: 22px; font-weight: bold;">KPMG</span>  - *Federal Technology Risk Management Associate*
 
 McLean, VA | July 2022 - July 2024
