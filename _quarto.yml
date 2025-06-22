@@ -32,6 +32,8 @@ website:
             href: https://corcoran.georgetown.domains/FIFA-Position-Classifier/index.html
           - text: Movie Recommendation Model
             href: https://corcoran.georgetown.domains/Movie-Recommendation-Model/index.html
+          - text: Identifying Bird Calls Using Neural Networks
+            href: https://corcoran.georgetown.domains/Bird-Call-Classifier/index.html
       - text: Resume
         href: ./pages/resume.qmd
     right:
