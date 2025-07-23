@@ -9,7 +9,7 @@ title: About David Corcoran
 <div class = "text-content">
   I graduated from Virginia Tech's Pamplin College of Business in May 2022 with two degrees in Business Information Technology and Finance, and a minor in Economics. Immediately after graduation, I worked for two years in McLean, VA as a Federal Technology Risk Management Associate at KPMG. In this role, I gained hands-on experience in IT control audit readiness, segregation of duties (SoD), identity and access management (ICAM), and inventory management, where I contributed to improving risk mitigation processes, creating corrective action plan (CAP) downgrade packages, and aligning IT controls with regulatory requirements.
 
-  In August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown University. In this program, I aim to deepen my understanding of machine learning, database management, statistics, preditive modeling, and natural language processing (NLP). I am eager to apply my knowledge in data-driven decision-making to future roles in technology, where I hope to leverage the data science concepts I have learned while attending this program.
+  In August 2024, I began to pursue a Masters in Data Science and Analytics at Georgetown University. In this program, I aim to deepen my understanding of machine learning, database management, statistics, deep learning, and natural language processing (NLP). I am eager to apply my knowledge in data-driven decision-making to future roles in technology, where I hope to leverage the data science concepts I have learned while attending this program.
 </div>
 <br><br>
 
@@ -69,7 +69,6 @@ Los Angeles, CA | June 2025 - August 2025
 
 ::: {.g-col}
 - Work in Progress
-- 
 :::
 
 :::
