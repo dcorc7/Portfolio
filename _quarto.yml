@@ -26,6 +26,8 @@ website:
             href: https://corcoran.georgetown.domains/Chronic-Absenteeism-Project/index.html
           - text: Spring 2025 - DSAN 5200 Visualizing Formula 1
             href: https://corcoran.georgetown.domains/Visualizing_Formula_1/index.html
+          - text: Summer 2025 - DSAN 6400 Movie Network Analysis
+            href: https://corcoran.georgetown.domains/Movie-Network-Analysis/index.html
       - text: Personal Projects
         menu:
           - text: FIFA Soccer Player Position Classifier
