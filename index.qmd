@@ -72,9 +72,9 @@ Los Angeles, CA | June 2025 - August 2025
   
 - Designed and executed a data-driven capital budgeting methodology to evaluate whether to maintain or rebuild a portfolio of 12 wind tunnels.
   
-- Developed cost forecasting models using polynomial regression and manual curve fitting to estimate future operational and maintenance expenses and inform Net Present Cost (NPC) analysis.
+- Developed cost forecasting models using polynomial regression and non-linear curve fitting techniques to estimate future operational and maintenance expenses and inform Net Present Cost (NPC) analysis.
 
-- Conducted Monte Carlo simulations to quantify uncertainty and variability in cost projections and decision outcomes.
+- Ran Monte Carlo simulations to quantify uncertainty and variability in cost projections and decision outcomes.
 
 - Performed scenario-based sensitivity analysis to evaluate the impact of planning assumptions on investment decisions and prioritization.
 
