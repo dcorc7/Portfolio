@@ -148,6 +148,18 @@ McLean, VA | June 2021 - August 2021
 ![](./assets/powerbi.svg){width=100px} 
 :::
 
+::: {.g-col}
+![](./assets/pytorch.png){width=100px} 
+:::
+
+::: {.g-col}
+![](./assets/docker.png){width=100px} 
+:::
+
+::: {.g-col}
+![](./assets/tensorflow.png){width=100px} 
+:::
+
 :::
 
 ---
