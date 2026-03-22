@@ -14,23 +14,23 @@ website:
         href: index.qmd
       - text: Academic Projects
         menu:
-          - text: Fall 2024 - DSAN 5000 Examining Success Metrics in the Film Industry
+          - text: Fall 2024 - DSAN 5000 Examination of Success Metrics in Film
             href: https://corcoran.georgetown.domains/5000-Project/index.html
-          - text: Fall 2024 - DSAN 5100 Analyzing Airbnb Features that Influence Rental Pricing Decisions
+          - text: Fall 2024 - DSAN 5100 Analysis of Airbnb Features Influencing Rental Pricing Decisions
             href: https://corcoran.georgetown.domains/5100-Project/index.html
           - text: Fall 2024 - DSAN 6300 Analysis of FAA Passenger Flight Data
             href: https://corcoran.georgetown.domains/6300-Project/index.html
-          - text: Spring 2025 - DSAN 6600 Classifying Dashcam Collision Videos Using Neural Networks
+          - text: Spring 2025 - DSAN 6600 Classification of Dashcam Collision Videos Using Neural Networks
             href: https://corcoran.georgetown.domains/Vehicle-Collision-Detection-Project/index.html
           - text: Spring 2025 - DSAN 5300 Predicting Chronic Absenteeism in US School Districts
             href: https://corcoran.georgetown.domains/Chronic-Absenteeism-Project/index.html
           - text: Spring 2025 - DSAN 5200 Visualizing Formula 1
             href: https://corcoran.georgetown.domains/Visualizing_Formula_1/index.html
-          - text: Summer 2025 - DSAN 6400 Movie Network Analysis
+          - text: Summer 2025 - DSAN 6400 Movie Collaboration Network Analysis
             href: https://corcoran.georgetown.domains/Movie-Network-Analysis/index.html
-          - text: Fall 2025 - DSAN 6650 Deep Learning for Soccer On-Ball Decision Making
+          - text: Fall 2025 - DSAN 6650 Deep Reinforcement Learning for Soccer On-Ball Decision Making
             href: https://corcoran.georgetown.domains/Soccer-On-Ball-Decision-Making/index.html
-          - text: Fall 2025 - DSAN 6700 Off-the-Beaten-Path-Travel-Recommender
+          - text: Fall 2025 - DSAN 6700 Off-the-Beaten-Path Travel Recommendation Application
             href: https://corcoran.georgetown.domains/Travel-Recommender/index.html
       - text: Personal Projects
         menu:
@@ -38,8 +38,9 @@ website:
             href: https://corcoran.georgetown.domains/FIFA-Position-Classifier/index.html
           - text: Movie Recommendation Model
             href: https://corcoran.georgetown.domains/Movie-Recommendation-Model/index.html
-          - text: Identifying Bird Calls Using Neural Networks
+          - text: Identifying Bird Calls
             href: https://corcoran.georgetown.domains/Bird-Call-Classifier/index.html
+          - text: Reinforcement Learning Self-Landing Rocket
       - text: Resume
         href: ./pages/resume.qmd
     right:
