@@ -124,6 +124,22 @@ McLean, VA | June 2021 - August 2021
 
 ---
 
+# Certifications
+
+::: {.grid .certifications_grid}
+
+::: {.g-col-6 .grid_picture}
+![](./assets/azure_fundamentals.png){width=100px}
+:::
+
+::: {.g-col-6 .grid_picture}
+Currently working towards AWS AI Practitioner
+:::
+
+:::
+
+---
+
 # Technical Skills
 
 ::: {.grid .skills_grid}

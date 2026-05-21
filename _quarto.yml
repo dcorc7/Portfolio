@@ -41,6 +41,9 @@ website:
           - text: Identifying Bird Calls
             href: https://corcoran.georgetown.domains/Bird-Call-Classifier/index.html
           - text: Reinforcement Learning Self-Landing Rocket
+            href: https://corcoran.georgetown.domains/Self-Landing-Rocket/index.html
+          - text: Soccer Data API Dashboard
+            href: https://corcoran.georgetown.domains/Soccer-Data-API/index.html
       - text: Resume
         href: ./pages/resume.qmd
     right:

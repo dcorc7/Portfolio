@@ -56,6 +56,12 @@
   align-items: start;
 }
 
+.certifications_grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  place-items: center;
+}
+
 .skills_grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
