@@ -19,7 +19,7 @@ title: About David Corcoran
 
 <span style="font-size: 22px; font-weight: bold;">Georgetown University</span>
 
-Washington D.C. | Expected Graduation: May 2026
+Washington D.C. | Graduation: May 2026
 
 ::: {.grid .education_grid}
 ::: {.g-col .grid_picture}
@@ -56,6 +56,22 @@ Blacksburg, VA | Graduated: May 2022
 ---
 
 # Work Experience
+
+<span style="font-size: 22px; font-weight: bold;">Premise Health</span>  - *Data Scientist*
+
+Remote | June 2026 - Present
+
+::: {.grid .work_experience_grid}
+
+::: {.g-col .grid_picture}
+![](./assets/premise_logo.png){width=100px}
+:::
+
+::: {.g-col}
+----- To be filled out -----
+:::
+
+:::
 
 <span style="font-size: 22px; font-weight: bold;">NASA</span>  - *Data & Analytics Intern*
 
@@ -130,10 +146,6 @@ McLean, VA | June 2021 - August 2021
 
 ::: {.g-col-6 .grid_picture}
 ![](./assets/azure_fundamentals.png){width=100px}
-:::
-
-::: {.g-col-6 .grid_picture}
-Currently working towards AWS AI Practitioner
 :::
 
 :::

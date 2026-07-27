@@ -12,8 +12,7 @@ title: Projects
   <div class="project-text">Fall 2024 - DSAN 5000<br>Examination of Success Metrics in Film</div>
 </a>
 
-<a class="project-card" href="https://corcoran.georgetown.domains/5100-Project/index.html" target="_blank">
-  <div class="project-icon">🏠</div>
+<a class="project-card" href="https://corcoran.georgetown.domains/5100-Project/index.html" target="_blank" style="background-image: url('https://images.unsplash.com/photo-1522708323590-d24dbb6b0267');">
   <div class="project-text">Fall 2024 - DSAN 5100<br>Analysis of Airbnb Features Influencing Rental Pricing Decisions</div>
 </a>
 
