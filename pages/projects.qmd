@@ -2,44 +2,61 @@
 title: Projects
 ---
 
+```{=html}
+<style>
+  .project-text {
+    font-size: 0.90rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: white;
+
+    text-shadow:
+      -1px -1px 0 black,
+      1px -1px 0 black,
+      -1px  1px 0 black,
+      1px  1px 0 black;
+  }
+</style>
+```
+
 ## Academic Projects
 
 ```{=html}
 <div class="project-grid">
 
-<a class="project-card" href="https://corcoran.georgetown.domains/5000-Project/index.html" target="_blank" style="background-image: url('../assets/film.jpg'); background-position: center;">
+<a class="project-card" href="https://corcoran.georgetown.domains/5000-Project/index.html" target="_blank" style="background-image: url('../assets/film.jpg'); background-position: center; background-size: cover;">
   <div class="project-text">Examination of Success Metrics in Film</div>
 </a>
 
-<a class="project-card" href="https://corcoran.georgetown.domains/5100-Project/index.html" target="_blank" style="background-image: url('../assets/airbnb_banner.png'); background-position: center;">
+<a class="project-card" href="https://corcoran.georgetown.domains/5100-Project/index.html" target="_blank" style="background-image: url('../assets/airbnb_banner.png'); background-position: center; background-size: cover;">
   <div class="project-text">Analysis of Airbnb Features Influencing Rental Pricing Decisions</div>
 </a>
 
-<a class="project-card" href="https://corcoran.georgetown.domains/6300-Project/index.html" target="_blank" style="background-image: url('../assets/airplane.webp'); background-position: center;">
+<a class="project-card" href="https://corcoran.georgetown.domains/6300-Project/index.html" target="_blank" style="background-image: url('../assets/airplane.webp'); background-position: center; background-size: cover;">
   <div class="project-text">Analysis of FAA Passenger Flight Data</div>
 </a>
 
-<a class="project-card" href="https://corcoran.georgetown.domains/Vehicle-Collision-Detection-Project/index.html" target="_blank" style="background-image: url('../assets/road.avif'); background-position: center;">
+<a class="project-card" href="https://corcoran.georgetown.domains/Vehicle-Collision-Detection-Project/index.html" target="_blank" style="background-image: url('../assets/road.avif'); background-position: center; background-size: cover;">
   <div class="project-text">Classification of Dashcam Collision Videos</div>
 </a>
 
-<a class="project-card" href="https://corcoran.georgetown.domains/Chronic-Absenteeism-Project/index.html" target="_blank" style="background-image: url('../assets/school.jpg'); background-position: center;">
+<a class="project-card" href="https://corcoran.georgetown.domains/Chronic-Absenteeism-Project/index.html" target="_blank" style="background-image: url('../assets/school.jpg'); background-position: center; background-size: cover;">
   <div class="project-text">Predicting Chronic Absenteeism in US School Districts</div>
 </a>
 
-<a class="project-card" href="https://corcoran.georgetown.domains/Visualizing_Formula_1/index.html" target="_blank" style="background-image: url('../assets/f1.avif'); background-position: center;">
+<a class="project-card" href="https://corcoran.georgetown.domains/Visualizing_Formula_1/index.html" target="_blank" style="background-image: url('../assets/f1.avif'); background-position: center; background-size: cover;">
   <div class="project-text">Visualizing Formula 1</div>
 </a>
 
-<a class="project-card" href="https://corcoran.georgetown.domains/Movie-Network-Analysis/index.html" target="_blank" style="background-image: url('../assets/letterboxd.webp'); background-position: center;">
+<a class="project-card" href="https://corcoran.georgetown.domains/Movie-Network-Analysis/index.html" target="_blank" style="background-image: url('../assets/oscars.jpeg'); background-position: center; background-size: cover;">
   <div class="project-text">Movie Collaboration Networks</div>
 </a>
 
-<a class="project-card" href="https://corcoran.georgetown.domains/Soccer-On-Ball-Decision-Making/index.html" target="_blank" style="background-image: url('../assets/soccer_pitch.avif'); background-position: center;">
+<a class="project-card" href="https://corcoran.georgetown.domains/Soccer-On-Ball-Decision-Making/index.html" target="_blank" style="background-image: url('../assets/soccer_pitch.avif'); background-position: center; background-size: cover;">
   <div class="project-text">Deep RL for Soccer On-Ball Decision Making</div>
 </a>
 
-<a class="project-card" href="https://corcoran.georgetown.domains/Travel-Recommender/index.html" target="_blank" style="background-image: url('../assets/earth.webp'); background-position: center;">
+<a class="project-card" href="https://corcoran.georgetown.domains/Travel-Recommender/index.html" target="_blank" style="background-image: url('../assets/earth.webp'); background-position: center; background-size: cover;">
   <div class="project-text">'Off-the-Beaten-Path' Travel Recommendation App</div>
 </a>
 
@@ -49,25 +66,26 @@ title: Projects
 ## Personal Projects
 
 ```{=html}
+
 <div class="project-grid">
 
-<a class="project-card" href="https://corcoran.georgetown.domains/FIFA-Position-Classifier/index.html" target="_blank" style="background-image: url('../assets/soccer.webp'); background-position: center;">
+<a class="project-card" href="https://corcoran.georgetown.domains/FIFA-Position-Classifier/index.html" target="_blank" style="background-image: url('../assets/soccer.jpg'); background-position: center; background-size: cover;">
   <div class="project-text">FIFA Soccer Player Position Classifier</div>
 </a>
 
-<a class="project-card" href="https://corcoran.georgetown.domains/Movie-Recommendation-Model/index.html" target="_blank" style="background-image: url('../assets/oscars.jpeg'); background-position: center;">
+<a class="project-card" href="https://corcoran.georgetown.domains/Movie-Recommendation-Model/index.html" target="_blank" style="background-image: url('../assets/letterboxd.webp'); background-position: center; background-size: cover;">
   <div class="project-text">Movie Recommendation Model</div>
 </a>
 
-<a class="project-card" href="https://corcoran.georgetown.domains/Bird-Call-Classifier/index.html" target="_blank" style="background-image: url('../assets/cardinal.jpg'); background-position: center;">
+<a class="project-card" href="https://corcoran.georgetown.domains/Bird-Call-Classifier/index.html" target="_blank" style="background-image: url('../assets/cardinal.jpg'); background-position: center; background-size: cover;">
   <div class="project-text">Identifying Bird Calls</div>
 </a>
 
-<a class="project-card" href="https://corcoran.georgetown.domains/Self-Landing-Rocket/index.html" target="_blank" style="background-image: url('../assets/rocket.png'); background-position: center;">
+<a class="project-card" href="https://corcoran.georgetown.domains/Self-Landing-Rocket/index.html" target="_blank" style="background-image: url('../assets/rocket.png'); background-position: center; background-size: cover;">
   <div class="project-text">RL Self-Landing Rocket</div>
 </a>
 
-<a class="project-card" href="https://soccer-data-api.streamlit.app/" target="_blank" style="background-image: url('../assets/monterrey.jpg'); background-position: center;">
+<a class="project-card" href="https://soccer-data-api.streamlit.app/" target="_blank" style="background-image: url('../assets/monterrey.jpg'); background-position: center; background-size: cover;">
   <div class="project-text">Soccer League Data API Dashboard</div>
 </a>
 
